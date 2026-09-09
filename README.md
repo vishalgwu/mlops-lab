@@ -58,17 +58,7 @@ The objective of this repository is to understand and eventually implement this 
 
 ---
 
-# 📚 Learning Resource
 
-I am following the following MLOps course:
-
-**Ultimate MLOps Full Course in One Video 🔥**
-
-YouTube:
-
-https://www.youtube.com/watch?v=w71RHxAWxaM
-
-The course covers approximately **12 hours of MLOps concepts and practical implementation**.
 
 ---
 
